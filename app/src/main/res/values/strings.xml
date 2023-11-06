@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name" translatable="false">UpTodo</string>
+
+    <string name="skip_btn">SKIP</string>
+    <string name="back_btn">BACK</string>
+    <string name="next_btn">NEXT</string>
+    <string name="done_btn">DONE</string>
+    <string name="left_btn" translatable="false">Left</string>
+    <string name="right_btn" translatable="false">Right</string>
+    <string name="save_btn">Save</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="add_btn">Add</string>
+    <string name="delete_all_tasks_btn">Delete All Tasks</string>
+    <string name="delete_all_categories_btn">Delete All Categories</string>
+
+    <string name="first_onboarding_title">Manage your tasks</string>
+    <string name="first_onboarding_description">You can easily manage all of your daily tasks in UpTodo for free</string>
+    <string name="second_onboarding_title">Create daily routine</string>
+    <string name="second_onboarding_description">In UpTodo you can create your personalized routine to stay productive</string>
+    <string name="third_onboarding_title">Organize your tasks</string>
+    <string name="third_onboarding_description">You can organize your daily tasks by adding your tasks into separate categories</string>
+    <string name="delete_task_title">Delete the task?</string>
+    <string name="delete_task_description">Are you sure you want to delete the task?</string>
+    <string name="delete_all_tasks_title">Delete all tasks?</string>
+    <string name="delete_all_tasks_description">Are you sure you want to delete all tasks?</string>
+
+    <string name="empty" translatable="false">Empty</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="chip" translatable="false">Chip</string>
+    <string name="delete" translatable="false">Delete</string>
+    <string name="edit" translatable="false">Edit</string>
+    <string name="share" translatable="false">Share</string>
+
+    <string name="tasks">Tasks</string>
+    <string name="calendar">Calendar</string>
+    <string name="create">Create</string>
+    <string name="settings">Settings</string>
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="name">Name</string>
+    <string name="priority">Priority</string>
+
+    <string name="search_hint">Search for your task...</string>
+    <string name="title_hint">Do homework</string>
+    <string name="description_hint">Do chapter 2 to 5 for next week</string>
+    <string name="name_hint">Education</string>
+
+    <string name="today">Today</string>
+    <string name="theme">Theme</string>
+    <string name="language">Language</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="system">System</string>
+    <string name="english">English</string>
+    <string name="ukrainian">Ukrainian</string>
+    <string name="planned_at">Planned at %1$s</string>
+    <string name="created_at">Created at %1$s</string>
+    <string name="delete_all">Delete All</string>
+</resources>

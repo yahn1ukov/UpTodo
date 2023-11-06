@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.UpTodo" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <style name="Theme.UpTodo.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.UpTodo</item>
+    </style>
+</resources>

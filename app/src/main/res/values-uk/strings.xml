@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="skip_btn">ПРОПУСТИТИ</string>
+    <string name="back_btn">НАЗАД</string>
+    <string name="next_btn">ДАЛІ</string>
+    <string name="done_btn">ГОТОВО</string>
+    <string name="save_btn">Зберегти</string>
+    <string name="cancel_btn">Відмінити</string>
+    <string name="add_btn">Додати</string>
+    <string name="delete_all_tasks_btn">Видалити всі задачі</string>
+    <string name="delete_all_categories_btn">Видалити всі категорії</string>
+
+    <string name="first_onboarding_title">Керуйте своїми завданнями</string>
+    <string name="first_onboarding_description">Ви можете легко керувати всіма своїми щоденними завданнями в UpTodo безкоштовно</string>
+    <string name="second_onboarding_title">Створіть розпорядок дня</string>
+    <string name="second_onboarding_description">В UpTodo ви можете створити свій власний розпорядок дня, щоб залишатися продуктивним</string>
+    <string name="third_onboarding_title">Організуйте свої завдання</string>
+    <string name="third_onboarding_description">Ви можете впорядкувати свої щоденні завдання, додавши їх в окремі категорії</string>
+    <string name="delete_task_title">Видалити задачу?</string>
+    <string name="delete_task_description">Ви впевнені, що хочете видалити задачу?</string>
+    <string name="delete_all_tasks_title">Видалити всі задачі?</string>
+    <string name="delete_all_tasks_description">Ви впевнені, що хочете видалити всі задачі?</string>
+
+    <string name="tasks">Задачі</string>
+    <string name="calendar">Календар</string>
+    <string name="create">Створити</string>
+    <string name="settings">Параметри</string>
+
+    <string name="title">Назва</string>
+    <string name="description">Опис</string>
+    <string name="name">Назва</string>
+    <string name="priority">Пріоритет</string>
+
+    <string name="search_hint">Шукайте свою задачу...</string>
+    <string name="title_hint">Зробити домашнє завдання</string>
+    <string name="description_hint">Виконати розділи з 2 по 5 на наступний тиждень</string>
+    <string name="name_hint">Освіта</string>
+
+    <string name="today">Сьогодні</string>
+    <string name="theme">Тема</string>
+    <string name="language">Мова</string>
+    <string name="light">Світла</string>
+    <string name="dark">Темна</string>
+    <string name="system">Системна</string>
+    <string name="english">Англійська</string>
+    <string name="ukrainian">Українська</string>
+
+    <string name="planned_at">Заплановано на %1$s</string>
+    <string name="created_at">Створено %1$s</string>
+</resources>
